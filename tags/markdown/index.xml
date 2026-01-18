@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Aster</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on Aster</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;架站架半天的記錄&#34;&gt;&#xA;  架站架半天的記錄&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9e%b6%e7%ab%99%e6%9e%b6%e5%8d%8a%e5%a4%a9%e7%9a%84%e8%a8%98%e9%8c%84&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;是誰說只要一下子我要發瘋&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>http://localhost:1313/posts/rich-content.pt-br/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>http://localhost:1313/posts/more-rich-content.pt-br/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>More Rich Content</title>
+      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>http://localhost:1313/posts/math-typesetting.pt-br/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>http://localhost:1313/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mermaid-support/</guid>
+      <description>&lt;p&gt;If you want to use &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; on your website.&#xA;Provide &lt;code&gt;mermaid&lt;/code&gt; as &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcode&lt;/a&gt; in your markdown file.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Find more example on &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>http://localhost:1313/posts/mermaid-support.pt-br/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mermaid-support.pt-br/</guid>
+      <description>&lt;p&gt;Se quiser usar o &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; em sua página.&#xA;Use o &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode&lt;/a&gt; &lt;code&gt;mermaid&lt;/code&gt; em seus conteúdos Markdown.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Entro mais exemplos na página do &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texto de Exemplo</title>
+      <link>http://localhost:1313/posts/placeholder-text.pt-br/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

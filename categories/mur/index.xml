@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mur on Aster</title>
+    <link>http://gooseboop.github.io/categories/mur/</link>
+    <description>Recent content in Mur on Aster</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://gooseboop.github.io/categories/mur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey</title>
+      <link>http://gooseboop.github.io/posts/first/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://gooseboop.github.io/posts/first/</guid>
+      <description>&lt;h2 id=&#34;架站架半天的記錄&#34;&gt;&#xA;  架站架半天的記錄&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9e%b6%e7%ab%99%e6%9e%b6%e5%8d%8a%e5%a4%a9%e7%9a%84%e8%a8%98%e9%8c%84&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;是誰說只要一下子我要發瘋。&lt;br&gt;&#xA;找了一整個下午的Hugo themes &lt;strong&gt;全部都很難用&lt;/strong&gt;。&lt;br&gt;&#xA;只能說以一個不會寫程式的普通人來說門檻真的有點高……&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

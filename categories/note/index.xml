@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Note on Aster</title>
+    <link>http://gooseboop.github.io/categories/note/</link>
+    <description>Recent content in Note on Aster</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://gooseboop.github.io/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬家</title>
+      <link>http://gooseboop.github.io/posts/20260118/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://gooseboop.github.io/posts/20260118/</guid>
+      <description>&lt;p&gt;Aster新居落成了！（拉炮）&lt;br&gt;&#xA;這是一個從高中（since 2004）開始寫的部落格延續，回溯自己的部落格&lt;del&gt;王朝&lt;/del&gt;發展史如下：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;exblog&lt;/strong&gt;（2004-2010）：那時部落格叫做「Tranquil crescent」，一個文藝中二病時代。XD&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;fc2&lt;/strong&gt;（2010-2013）：大學時因為同人創作開始使用，印象中很會用html或css的話可以改得很漂亮，也可以在側邊欄放很多別人家的漂亮banner當成是部落卷卷展示區。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;weebly&lt;/strong&gt;（2013-2025）：開始當社畜時搬到此地，因為很懶人很直觀，一用用了十來年。但後台很慢，放圖片很慢，有時發文會沒存到莫名不見，很氣。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;統計下來沒事寫一些小廢文竟是一個持續了二十多年（！）的習慣，也是覺得哇自己雖然沒做什麼驚天動地的大事但還是小有成就嘛（老王賣瓜）。但心裡還是有點不踏實，覺得這些片段都仰賴某個平台寄人籬下，這幾年也一直有想要搬家的念頭卻都未果。&lt;br&gt;&#xA;2024年曾經嘗試過bluehost主機+wordpress組合拳，花了大概是900元臺幣左右買了一些教訓，發現主機太慢了，操作對我來說也太難了，又有點既然都花了錢想要言之有物的心魔，結果就是什麼都寫不出來，斷然放棄。&lt;br&gt;&#xA;2025年則是都在燒肝工作，繼續回到weebly寫給自己看的療傷（?）廢文。年末因為重新想學鋼琴，找到了好和弦頻道，看到wiwi Blog的&lt;a href=&#34;https://wiwi.blog/blog/blogblog-party-jan-2026&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BlogBlog同樂會&lt;/a&gt;，好喜歡這個構想，燃起決心要加入這個俱樂部。又因為在部落卷卷裡亂逛，誤打誤撞找到&lt;a href=&#34;https://hahow.in/courses/5de8fec16117240026540b9c&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github 免費架站術&lt;/a&gt;這個教學課程，用github+hugo看起來彈性和CP值蠻高的，看起來也不算太難，於是與自己訂下了要在期限前要投稿Blog同樂會的契約，現在終於可以實現了。預計想在這個新家繼續寫廢文的旅程，並且要來發個推坑文投稿。XD&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

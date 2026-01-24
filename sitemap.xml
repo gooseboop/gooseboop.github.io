@@ -2,65 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gooseboop.github.io/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/tags/blog/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/categories/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/categories/note/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/categories/piano/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/series/note/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/posts/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/posts/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/tags/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/series/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/tags/%E5%9B%9E%E9%A1%A7/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/posts/20260118/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/posts/00003push/</loc>
+    <lastmod>2026-01-22T21:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/about/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/categories/blog/</loc>
+    <lastmod>2026-01-22T21:29:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/posts/first/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</loc>
+    <lastmod>2026-01-22T21:29:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/categories/mur/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/posts/00002move/</loc>
+    <lastmod>2026-01-22T21:29:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/series/mur/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/posts/00001hey/</loc>
+    <lastmod>2026-01-19T23:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/tags/murmur/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://gooseboop.com/tags/mur/</loc>
+    <lastmod>2026-01-19T23:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://gooseboop.github.io/authors/</loc>
-    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+    <loc>https://gooseboop.com/about/</loc>
   </url><url>
-    <loc>http://gooseboop.github.io/authors/hugo-authors/</loc>
-    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+    <loc>https://gooseboop.com/about/categories/</loc>
   </url><url>
-    <loc>http://gooseboop.github.io/categories/</loc>
-    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
-  </url><url>
-    <loc>http://gooseboop.github.io/categoria/temas/</loc>
-    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
-  </url><url>
-    <loc>http://gooseboop.github.io/categoria/sintaxe/</loc>
-    <lastmod>2023-01-04T23:21:06+01:00</lastmod>
-  </url><url>
-    <loc>http://gooseboop.github.io/tags/shortcodes/_index.pt-br/</loc>
-    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-  </url><url>
-    <loc>http://gooseboop.github.io/tags/</loc>
-    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-  </url><url>
-    <loc>http://gooseboop.github.io/contact/</loc>
-  </url><url>
-    <loc>http://gooseboop.github.io/projects/</loc>
+    <loc>https://gooseboop.com/about/tags/</loc>
   </url>
 </urlset>

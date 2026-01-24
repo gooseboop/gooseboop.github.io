@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我家 on Aster</title>
+    <link>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</link>
+    <description>Recent content in 我家 on Aster</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 22 Jan 2026 21:29:00 +0800</lastBuildDate>
+    <atom:link href="https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬家</title>
+      <link>https://gooseboop.com/posts/00002move/</link>
+      <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
+      <guid>https://gooseboop.com/posts/00002move/</guid>
+      <description>從網路上的租屋到買房的經歷(?)</description>
+    </item>
+  </channel>
+</rss>

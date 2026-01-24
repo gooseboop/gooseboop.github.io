@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About on Aster</title>
+    <link>https://gooseboop.com/about/</link>
+    <description>Recent content in About on Aster</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://gooseboop.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catagories</title>
+      <link>https://gooseboop.com/about/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gooseboop.com/about/categories/</guid>
+      <description>&lt;div class=&#34;post-tags&#34;&gt;
+  
+    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/blog/&#34;&gt;
+      blog (2)
+    &lt;/a&gt;
+  
+    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/piano/&#34;&gt;
+      piano (1)
+    &lt;/a&gt;
+  
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>https://gooseboop.com/about/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gooseboop.com/about/tags/</guid>
+      <description>&lt;div class=&#34;post-tags&#34;&gt;
+  
+    &lt;a href=&#34;https://gooseboop.com/tags/mur/&#34;&gt;
+      mur (1)
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://gooseboop.com/tags/%E5%9B%9E%E9%A1%A7/&#34;&gt;
+      回顧 (1)
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/&#34;&gt;
+      我家 (1)
+    &lt;/a&gt;
+  
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

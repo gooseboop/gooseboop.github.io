@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Aster</title>
-    <link>http://gooseboop.github.io/tags/</link>
+    <link>https://gooseboop.com/tags/</link>
     <description>Recent content in Tags on Aster</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://gooseboop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 22 Jan 2026 21:40:00 +0800</lastBuildDate>
+    <atom:link href="https://gooseboop.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://gooseboop.github.io/tags/blog/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://gooseboop.github.io/tags/blog/</guid>
+      <title>回顧</title>
+      <link>https://gooseboop.com/tags/%E5%9B%9E%E9%A1%A7/</link>
+      <pubDate>Thu, 22 Jan 2026 21:40:00 +0800</pubDate>
+      <guid>https://gooseboop.com/tags/%E5%9B%9E%E9%A1%A7/</guid>
       <description></description>
     </item>
     <item>
-      <title>Murmur</title>
-      <link>http://gooseboop.github.io/tags/murmur/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://gooseboop.github.io/tags/murmur/</guid>
+      <title>我家</title>
+      <link>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</link>
+      <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
+      <guid>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mur</title>
+      <link>https://gooseboop.com/tags/mur/</link>
+      <pubDate>Mon, 19 Jan 2026 23:50:00 +0800</pubDate>
+      <guid>https://gooseboop.com/tags/mur/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Aster</title>
-    <link>http://gooseboop.github.io/categories/</link>
+    <link>https://gooseboop.com/categories/</link>
     <description>Recent content in Categories on Aster</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://gooseboop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 22 Jan 2026 21:40:00 +0800</lastBuildDate>
+    <atom:link href="https://gooseboop.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Note</title>
-      <link>http://gooseboop.github.io/categories/note/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://gooseboop.github.io/categories/note/</guid>
+      <title>Piano</title>
+      <link>https://gooseboop.com/categories/piano/</link>
+      <pubDate>Thu, 22 Jan 2026 21:40:00 +0800</pubDate>
+      <guid>https://gooseboop.com/categories/piano/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mur</title>
-      <link>http://gooseboop.github.io/categories/mur/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://gooseboop.github.io/categories/mur/</guid>
+      <title>Blog</title>
+      <link>https://gooseboop.com/categories/blog/</link>
+      <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
+      <guid>https://gooseboop.com/categories/blog/</guid>
       <description></description>
     </item>
   </channel>

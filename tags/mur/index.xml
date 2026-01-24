@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mur on Aster</title>
+    <link>https://gooseboop.com/tags/mur/</link>
+    <description>Recent content in Mur on Aster</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 19 Jan 2026 23:50:00 +0800</lastBuildDate>
+    <atom:link href="https://gooseboop.com/tags/mur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey</title>
+      <link>https://gooseboop.com/posts/00001hey/</link>
+      <pubDate>Mon, 19 Jan 2026 23:50:00 +0800</pubDate>
+      <guid>https://gooseboop.com/posts/00001hey/</guid>
+      <description>這是一個媽我在這的第一篇文章測試</description>
+    </item>
+  </channel>
+</rss>

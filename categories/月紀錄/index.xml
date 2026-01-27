@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mur on Aster</title>
-    <link>https://gooseboop.com/tags/mur/</link>
-    <description>Recent content in Mur on Aster</description>
+    <title>月紀錄 on Aster</title>
+    <link>https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
+    <description>Recent content in 月紀錄 on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 27 Jan 2026 21:53:43 +0800</lastBuildDate>
-    <atom:link href="https://gooseboop.com/tags/mur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1月</title>
       <link>https://gooseboop.com/posts/00004note/</link>
@@ -37,17 +37,6 @@
 <li>有在想上面那些要完成的三期程小進度應該要是年度大目標拆解下來的東西，但<del>說真的每次都不知道自己的年度目標到底要選什麼（爆）</del>。有時候就是只想做想做的事，以及衝動想做的事啊。</li>
 <li>好想換床墊床架書桌，好想整理與大改造房間啊啊啊。</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hey</title>
-      <link>https://gooseboop.com/posts/00001hey/</link>
-      <pubDate>Mon, 19 Jan 2026 23:50:00 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00001hey/</guid>
-      <description>這是一個媽我在這的第一篇文章測試</description>
-      <content:encoded><![CDATA[<h3 id="靠著chatgpt-我也是會用hugo架blog的人了">靠著chatgpt 我也是會用Hugo架BLOG的人了!</h3>
-<p>之前照著二、三年前的線上課教程做有點卡關，但還好這是一個有AI的時代。<br>
-即使完全沒有程式底子也可以上手耶成就感滿點。</p>
 ]]></content:encoded>
     </item>
   </channel>

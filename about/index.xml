@@ -14,15 +14,35 @@
       <guid>https://gooseboop.com/about/categories/</guid>
       <description>&lt;div class=&#34;post-tags&#34;&gt;
   
-    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/blog/&#34;&gt;
-      blog (2)
+    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/&#34;&gt;
+      blogblog同樂會 (1)
     &lt;/a&gt;
   
-    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/piano/&#34;&gt;
-      piano (1)
+    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/&#34;&gt;
+      月紀錄 (1)
+    &lt;/a&gt;
+  
+    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/%E6%AD%B7%E5%8F%B2/&#34;&gt;
+      歷史 (2)
     &lt;/a&gt;
   
 &lt;/div&gt;</description>
+      <content:encoded><![CDATA[<div class="post-tags">
+  
+    <a class="tag" href="/categories/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/">
+      blogblog同樂會 (1)
+    </a>
+  
+    <a class="tag" href="/categories/%E6%9C%88%E7%B4%80%E9%8C%84/">
+      月紀錄 (1)
+    </a>
+  
+    <a class="tag" href="/categories/%E6%AD%B7%E5%8F%B2/">
+      歷史 (2)
+    </a>
+  
+</div>
+]]></content:encoded>
     </item>
     <item>
       <title>Tags</title>
@@ -32,18 +52,42 @@
       <description>&lt;div class=&#34;post-tags&#34;&gt;
   
     &lt;a href=&#34;https://gooseboop.com/tags/mur/&#34;&gt;
-      mur (1)
+      mur (2)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E5%9B%9E%E9%A1%A7/&#34;&gt;
-      回顧 (1)
+    &lt;a href=&#34;https://gooseboop.com/tags/piano/&#34;&gt;
+      piano (2)
     &lt;/a&gt;
   
     &lt;a href=&#34;https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/&#34;&gt;
       我家 (1)
     &lt;/a&gt;
   
+    &lt;a href=&#34;https://gooseboop.com/tags/%E8%A8%88%E7%95%AB/&#34;&gt;
+      計畫 (1)
+    &lt;/a&gt;
+  
 &lt;/div&gt;</description>
+      <content:encoded><![CDATA[<div class="post-tags">
+  
+    <a href="/tags/mur/">
+      mur (2)
+    </a>
+  
+    <a href="/tags/piano/">
+      piano (2)
+    </a>
+  
+    <a href="/tags/%E6%88%91%E5%AE%B6/">
+      我家 (1)
+    </a>
+  
+    <a href="/tags/%E8%A8%88%E7%95%AB/">
+      計畫 (1)
+    </a>
+  
+</div>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -6,20 +6,27 @@
     <description>Recent content in Categories on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 22 Jan 2026 21:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 21:53:43 +0800</lastBuildDate>
     <atom:link href="https://gooseboop.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Piano</title>
-      <link>https://gooseboop.com/categories/piano/</link>
-      <pubDate>Thu, 22 Jan 2026 21:40:00 +0800</pubDate>
-      <guid>https://gooseboop.com/categories/piano/</guid>
+      <title>月紀錄</title>
+      <link>https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
+      <pubDate>Tue, 27 Jan 2026 21:53:43 +0800</pubDate>
+      <guid>https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/</guid>
       <description></description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>https://gooseboop.com/categories/blog/</link>
+      <title>BlogBlog同樂會</title>
+      <link>https://gooseboop.com/categories/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</link>
+      <pubDate>Thu, 22 Jan 2026 21:40:00 +0800</pubDate>
+      <guid>https://gooseboop.com/categories/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>歷史</title>
+      <link>https://gooseboop.com/categories/%E6%AD%B7%E5%8F%B2/</link>
       <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
-      <guid>https://gooseboop.com/categories/blog/</guid>
+      <guid>https://gooseboop.com/categories/%E6%AD%B7%E5%8F%B2/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gooseboop.com/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/mur/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/00005daynew/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</loc>
+    <lastmod>2026-01-29T22:49:11+08:00</lastmod>
+  </url><url>
     <loc>https://gooseboop.com/posts/00004note/</loc>
     <lastmod>2026-01-27T21:53:43+08:00</lastmod>
   </url><url>
-    <loc>https://gooseboop.com/</loc>
-    <lastmod>2026-01-27T21:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/categories/</loc>
-    <lastmod>2026-01-27T21:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/mur/</loc>
-    <lastmod>2026-01-27T21:53:43+08:00</lastmod>
-  </url><url>
     <loc>https://gooseboop.com/tags/piano/</loc>
-    <lastmod>2026-01-27T21:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/posts/</loc>
-    <lastmod>2026-01-27T21:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/</loc>
     <lastmod>2026-01-27T21:53:43+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/categories/%E6%9C%88%E7%B4%80%E9%8C%84/</loc>
@@ -48,6 +54,8 @@
     <lastmod>2026-01-19T23:50:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/about/</loc>
+  </url><url>
+    <loc>https://gooseboop.com/archives/</loc>
   </url><url>
     <loc>https://gooseboop.com/about/categories/</loc>
   </url><url>

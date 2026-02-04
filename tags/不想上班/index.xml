@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>說說 on Aster</title>
-    <link>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</link>
-    <description>Recent content in 說說 on Aster</description>
+    <title>不想上班 on Aster</title>
+    <link>https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</link>
+    <description>Recent content in 不想上班 on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 04 Feb 2026 21:10:05 +0800</lastBuildDate>
-    <atom:link href="https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>星期三晚上，想睡覺</title>
       <link>https://gooseboop.com/posts/00006sleepy/</link>
@@ -54,60 +54,6 @@
 </a>，最近幾年也走向簡化路線，明明覺得好像都有買對衣服，但竟然還是有不知道要穿什麼的時候，對這件事感到有點厭煩，很想往選擇只有1種等於不用選這種方向試看看。XD</p>
 <h3 id="再催你來做you-can-you-up">再催你來做/YOU CAN YOU UP</h3>
 <p>同事最近又被主管氣到，每當我們被什麼辦公室鳥事氣到，就會想團購一些有著抗議控訴性質的班服（班服），妄想著可以作為一種挑釁的dress code。目前的首選是「再催你來做」與「好好好都是我的錯」（押韻），但我就一個曾經買過りしれ供さ小之T的人來說，其實要穿出來（並斗膽在主管面前展現）還真的不容易，一直希望可以有更加幽微，最好是一個界在不被注意與被注意到之間的設計（太難搞了）。然後很快地又會想到自己在規劃轉職這件事，真的有朝一日能穿到班服嗎，好像有點感傷又有點期待。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>日更</title>
-      <link>https://gooseboop.com/posts/00005daynew/</link>
-      <pubDate>Thu, 29 Jan 2026 22:49:11 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00005daynew/</guid>
-      <description>沒有要日更但有日更的野心</description>
-      <content:encoded><![CDATA[<p>自從蓋好了部落格，感覺天天都在版更（？）。倒也不是真的每天都有更新，而是三不五時到處亂逛，就發現啊這個功能也想要，那個也想要，不斷拿新問題去煩gpt，不斷拿到一些好用的程式碼，改了又要在終端機確認是不是想要的樣子，不是的話再重複煩gpt（下略），常常這樣造就了精神時光屋。 （這次的版更是做了Archive！）</p>
-<p>回想了以前的網站與部落格都有些什麼好玩的功能，小時候（大概是國中國小）最早是使用的製作網站工具是front page，印象比較深刻的是跑馬燈文字、有饅頭gif表情符號的留言板，和可以在背景播MIDI，現在也有點懷念好想做看看XD（欸）也有在思考要做一個contact頁面與留言板，但又覺得這只是一個寫廢言筆記的地方，還在糾結自己到底想不想要這種直接交流感<del>以及問了gpt後感覺好麻煩就先擺著吧</del>。</p>
-<p>在煩惱這種事的同時又耗費了精神時光屋扣打，其實本來這次版更是想弄一些google Search Consoleㄉ東西……然而轉眼該睡惹。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>搬家</title>
-      <link>https://gooseboop.com/posts/00002move/</link>
-      <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00002move/</guid>
-      <description>從網路上的租屋到買房的經歷(?)</description>
-      <content:encoded><![CDATA[<p>🎉Aster新居落成了！🎉<br>
-這是一個我從高中（since 2004）開始寫的部落格延續，回溯自己的部落格<del>王朝</del>發展史如下：</p>
-<blockquote>
-<ul>
-<li><strong>exblog</strong>（2004-2010）：高中時因為同學在用就跟著用，那時部落格叫做「Tranquil crescent」，一個文藝中二病時代。XD</li>
-<li><strong>fc2</strong>（2010-2013）：大學時因為同人創作也是跟風開始使用，很會用html或css的話可以改得很漂亮，這時有偷學一點點，大部分都是copy人家的語法來用。記得大家都會在側邊欄放很多別人家的漂亮banner當成是部落卷卷展示區。</li>
-<li><strong>weebly</strong>（2013-2025）：開始當社畜時搬到此地，因為很懶人很直觀，一用用了十來年。但後台很慢，放圖片很慢，有時發文會沒存到莫名不見，很氣。</li>
-</ul>
-</blockquote>
-<p>統計下來沒事寫一些小廢文竟是一個持續了二十多年（！）的習慣，也是覺得哇自己雖然沒做什麼驚天動地的大事但還是小有成就嘛（老王賣瓜）。但心裡還是有點不踏實，覺得這些片段都仰賴某個平台寄人籬下，這幾年也一直有想要搬家的念頭卻都未果。</p>
-<p>2024年曾經嘗試過bluehost主機+wordpress組合拳，花了大概是900元臺幣左右買了一些教訓，發現主機太慢了，操作對我來說也太難了，又有一種既然都花了錢想要言之有物的心魔，結果就是什麼都寫不出來，斷然放棄。</p>
-<p>2025年則是都在燒肝工作，繼續回到weebly寫給自己看的療傷（?）廢文。年末因為重新想學鋼琴，找到了好和弦頻道，看到wiwi Blog的<a href="https://wiwi.blog/blog/blogblog-party-jan-2026"
-   
-   
-     target="_blank" rel="noopener noreferrer"
-   >
-  BlogBlog同樂會
-</a>，好喜歡這個構想，燃起決心要加入這個俱樂部。又因為在部落卷卷裡亂逛，誤打誤撞找到<a href="https://hahow.in/courses/5de8fec16117240026540b9c"
-   
-   
-     target="_blank" rel="noopener noreferrer"
-   >
-  Github 免費架站術
-</a>這個教學課程，用github+hugo看起來彈性和CP值蠻高的，似乎也不算太難（？），於是與自己訂下了要在期限前要投稿Blog同樂會的契約，現在終於可以實現了！預計想在這個新家繼續寫廢文的旅程，並且要來發個推坑文投稿。XD</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hey</title>
-      <link>https://gooseboop.com/posts/00001hey/</link>
-      <pubDate>Mon, 19 Jan 2026 23:50:00 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00001hey/</guid>
-      <description>這是一個媽我在這的第一篇文章測試</description>
-      <content:encoded><![CDATA[<h3 id="靠著chatgpt-我也是會用hugo架blog的人了">靠著chatgpt 我也是會用Hugo架BLOG的人了!</h3>
-<p>之前照著二、三年前的線上課教程做有點卡關，但還好這是一個有AI的時代。<br>
-即使完全沒有程式底子也可以上手耶成就感滿點。</p>
 ]]></content:encoded>
     </item>
   </channel>

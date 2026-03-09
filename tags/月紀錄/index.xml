@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>月紀錄 on Aster</title>
-    <link>https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
+    <link>http://localhost:1313/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
     <description>Recent content in 月紀錄 on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 05 Mar 2026 18:53:43 +0800</lastBuildDate>
-    <atom:link href="https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%9C%88%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2月</title>
-      <link>https://gooseboop.com/posts/00009feb/</link>
+      <link>http://localhost:1313/posts/00009feb/</link>
       <pubDate>Thu, 05 Mar 2026 18:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00009feb/</guid>
+      <guid>http://localhost:1313/posts/00009feb/</guid>
       <description>2026年進度條：2/12</description>
       <content:encoded><![CDATA[<p>拖到現在才寫的月紀錄誌。2月一半去上班，一半放假，突然之間就結束了，實在過太快了五告恐怖，放假時也都幾乎都是家庭活動，包括過年去沖繩家族旅行（遊記也還在拖延中），拜訪姑姑家，二二八連假回去嘉義老家，好像沒做到什麼重要的事，份外空虛。</p>
 <h3 id="2月完成的事">2月完成的事</h3>
@@ -43,9 +43,9 @@
     </item>
     <item>
       <title>1月</title>
-      <link>https://gooseboop.com/posts/00004note/</link>
+      <link>http://localhost:1313/posts/00004note/</link>
       <pubDate>Tue, 27 Jan 2026 21:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/posts/00004note/</guid>
+      <guid>http://localhost:1313/posts/00004note/</guid>
       <description>2026年進度條：1/12</description>
       <content:encoded><![CDATA[<h3 id="10日追蹤">10日追蹤</h3>
 <p>這是看了不知道脆上還是哪裡來的說法，如果把一年365天看成是36個10天，立刻會有種時間過得很快的感覺（事實上確實也過得超快），用10天一個週期來安排各種目標的小進度，會是一個時間有限行動要快的甜蜜點，決定今年就來嘗試看看。</p>

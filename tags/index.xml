@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Aster</title>
-    <link>https://gooseboop.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 05 Mar 2026 18:53:43 +0800</lastBuildDate>
-    <atom:link href="https://gooseboop.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Mar 2026 23:10:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mur</title>
-      <link>https://gooseboop.com/tags/mur/</link>
-      <pubDate>Thu, 05 Mar 2026 18:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/mur/</guid>
+      <link>http://localhost:1313/tags/mur/</link>
+      <pubDate>Mon, 09 Mar 2026 23:10:05 +0800</pubDate>
+      <guid>http://localhost:1313/tags/mur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>理財</title>
+      <link>http://localhost:1313/tags/%E7%90%86%E8%B2%A1/</link>
+      <pubDate>Mon, 09 Mar 2026 23:10:05 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E7%90%86%E8%B2%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>月紀錄</title>
-      <link>https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
+      <link>http://localhost:1313/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</link>
       <pubDate>Thu, 05 Mar 2026 18:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</guid>
+      <guid>http://localhost:1313/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</guid>
       <description></description>
     </item>
     <item>
       <title>BlogBlog同樂會</title>
-      <link>https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</link>
+      <link>http://localhost:1313/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</link>
       <pubDate>Wed, 25 Feb 2026 23:07:05 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</guid>
+      <guid>http://localhost:1313/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</guid>
       <description></description>
     </item>
     <item>
       <title>還是你想被罵</title>
-      <link>https://gooseboop.com/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/</link>
+      <link>http://localhost:1313/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/</link>
       <pubDate>Tue, 10 Feb 2026 21:42:05 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/</guid>
+      <guid>http://localhost:1313/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/</guid>
       <description></description>
     </item>
     <item>
       <title>不想上班</title>
-      <link>https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</link>
+      <link>http://localhost:1313/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</link>
       <pubDate>Wed, 04 Feb 2026 21:10:05 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</guid>
+      <guid>http://localhost:1313/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</guid>
       <description></description>
     </item>
     <item>
       <title>鋼琴</title>
-      <link>https://gooseboop.com/tags/%E9%8B%BC%E7%90%B4/</link>
+      <link>http://localhost:1313/tags/%E9%8B%BC%E7%90%B4/</link>
       <pubDate>Tue, 27 Jan 2026 21:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E9%8B%BC%E7%90%B4/</guid>
+      <guid>http://localhost:1313/tags/%E9%8B%BC%E7%90%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>我家</title>
-      <link>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</link>
+      <link>http://localhost:1313/tags/%E6%88%91%E5%AE%B6/</link>
       <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/</guid>
+      <guid>http://localhost:1313/tags/%E6%88%91%E5%AE%B6/</guid>
       <description></description>
     </item>
     <item>
       <title>講古</title>
-      <link>https://gooseboop.com/tags/%E8%AC%9B%E5%8F%A4/</link>
+      <link>http://localhost:1313/tags/%E8%AC%9B%E5%8F%A4/</link>
       <pubDate>Thu, 22 Jan 2026 21:29:00 +0800</pubDate>
-      <guid>https://gooseboop.com/tags/%E8%AC%9B%E5%8F%A4/</guid>
+      <guid>http://localhost:1313/tags/%E8%AC%9B%E5%8F%A4/</guid>
       <description></description>
     </item>
   </channel>

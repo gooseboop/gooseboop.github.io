@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About on Aster</title>
-    <link>https://gooseboop.com/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in About on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
-    <atom:link href="https://gooseboop.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catagories</title>
-      <link>https://gooseboop.com/about/categories/</link>
+      <link>http://localhost:1313/about/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gooseboop.com/about/categories/</guid>
+      <guid>http://localhost:1313/about/categories/</guid>
       <description>&lt;div class=&#34;post-tags&#34;&gt;
   
-    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/&#34;&gt;
+    &lt;a class=&#34;tag&#34; href=&#34;http://localhost:1313/categories/%E6%B4%BB%E5%8B%95/&#34;&gt;
       活動 (4)
     &lt;/a&gt;
   
-    &lt;a class=&#34;tag&#34; href=&#34;https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/&#34;&gt;
-      說說 (5)
+    &lt;a class=&#34;tag&#34; href=&#34;http://localhost:1313/categories/%E8%AA%AA%E8%AA%AA/&#34;&gt;
+      說說 (6)
     &lt;/a&gt;
   
 &lt;/div&gt;</description>
@@ -30,7 +30,7 @@
     </a>
   
     <a class="tag" href="/categories/%E8%AA%AA%E8%AA%AA/">
-      說說 (5)
+      說說 (6)
     </a>
   
 </div>
@@ -38,40 +38,44 @@
     </item>
     <item>
       <title>Tags</title>
-      <link>https://gooseboop.com/about/tags/</link>
+      <link>http://localhost:1313/about/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gooseboop.com/about/tags/</guid>
+      <guid>http://localhost:1313/about/tags/</guid>
       <description>&lt;div class=&#34;post-tags&#34;&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/&#34;&gt;
       blogblog同樂會 (2)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/mur/&#34;&gt;
-      mur (7)
+    &lt;a href=&#34;http://localhost:1313/tags/mur/&#34;&gt;
+      mur (8)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/&#34;&gt;
       不想上班 (1)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E6%88%91%E5%AE%B6/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E6%88%91%E5%AE%B6/&#34;&gt;
       我家 (1)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E6%9C%88%E7%B4%80%E9%8C%84/&#34;&gt;
       月紀錄 (2)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E8%AC%9B%E5%8F%A4/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E7%90%86%E8%B2%A1/&#34;&gt;
+      理財 (1)
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;http://localhost:1313/tags/%E8%AC%9B%E5%8F%A4/&#34;&gt;
       講古 (1)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E9%82%84%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A2%AB%E7%BD%B5/&#34;&gt;
       還是你想被罵 (1)
     &lt;/a&gt;
   
-    &lt;a href=&#34;https://gooseboop.com/tags/%E9%8B%BC%E7%90%B4/&#34;&gt;
+    &lt;a href=&#34;http://localhost:1313/tags/%E9%8B%BC%E7%90%B4/&#34;&gt;
       鋼琴 (2)
     &lt;/a&gt;
   
@@ -83,7 +87,7 @@
     </a>
   
     <a href="/tags/mur/">
-      mur (7)
+      mur (8)
     </a>
   
     <a href="/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/">
@@ -96,6 +100,10 @@
   
     <a href="/tags/%E6%9C%88%E7%B4%80%E9%8C%84/">
       月紀錄 (2)
+    </a>
+  
+    <a href="/tags/%E7%90%86%E8%B2%A1/">
+      理財 (1)
     </a>
   
     <a href="/tags/%E8%AC%9B%E5%8F%A4/">

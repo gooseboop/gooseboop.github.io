@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BlogBlog同樂會 on Aster</title>
-    <link>http://localhost:1313/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</link>
+    <link>https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</link>
     <description>Recent content in BlogBlog同樂會 on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 25 Feb 2026 23:07:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>內心橘子汁</title>
-      <link>http://localhost:1313/posts/00008onlyme/</link>
+      <link>https://gooseboop.com/posts/00008onlyme/</link>
       <pubDate>Wed, 25 Feb 2026 23:07:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/00008onlyme/</guid>
+      <guid>https://gooseboop.com/posts/00008onlyme/</guid>
       <description>這是2026年2月份BlogBlog同樂會投稿文章，主題是「只有我這樣嗎」</description>
       <content:encoded><![CDATA[<blockquote>
 <p>這是我的<a href="https://wiwi.blog/blog/blogblog-party-feb-2026"
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>學鋼琴</title>
-      <link>http://localhost:1313/posts/00003push/</link>
+      <link>https://gooseboop.com/posts/00003push/</link>
       <pubDate>Thu, 22 Jan 2026 21:40:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/00003push/</guid>
+      <guid>https://gooseboop.com/posts/00003push/</guid>
       <description>這是2026年1月份BlogBlog同樂會投稿文章，主題是「推坑」</description>
       <content:encoded><![CDATA[<blockquote>
 <p>這是2026年1月份 <a href="https://blogblog.club/party/"

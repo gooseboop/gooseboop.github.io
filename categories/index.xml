@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Aster</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://gooseboop.com/categories/</link>
     <description>Recent content in Categories on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 09 Mar 2026 23:10:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gooseboop.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>說說</title>
-      <link>http://localhost:1313/categories/%E8%AA%AA%E8%AA%AA/</link>
+      <link>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</link>
       <pubDate>Mon, 09 Mar 2026 23:10:05 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E8%AA%AA%E8%AA%AA/</guid>
+      <guid>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</guid>
       <description></description>
     </item>
     <item>
       <title>活動</title>
-      <link>http://localhost:1313/categories/%E6%B4%BB%E5%8B%95/</link>
+      <link>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</link>
       <pubDate>Thu, 05 Mar 2026 18:53:43 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E6%B4%BB%E5%8B%95/</guid>
+      <guid>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</guid>
       <description></description>
     </item>
   </channel>

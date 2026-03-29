@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 09 Mar 2026 23:10:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:49:05 +0800</lastBuildDate>
     <atom:link href="https://gooseboop.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>活動</title>
+      <link>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</link>
+      <pubDate>Sun, 29 Mar 2026 11:49:05 +0800</pubDate>
+      <guid>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</guid>
+      <description></description>
+    </item>
     <item>
       <title>說說</title>
       <link>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</link>
       <pubDate>Mon, 09 Mar 2026 23:10:05 +0800</pubDate>
       <guid>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>活動</title>
-      <link>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</link>
-      <pubDate>Thu, 05 Mar 2026 18:53:43 +0800</pubDate>
-      <guid>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</guid>
       <description></description>
     </item>
   </channel>

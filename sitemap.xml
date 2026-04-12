@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gooseboop.com/posts/00012-mar/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
     <loc>https://gooseboop.com/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/mur/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</loc>
+    <lastmod>2026-04-12T09:04:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</loc>
     <lastmod>2026-03-29T11:49:05+08:00</lastmod>
   </url><url>
-    <loc>https://gooseboop.com/categories/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/mur/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/posts/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
-  </url><url>
     <loc>https://gooseboop.com/posts/00011-idealday/</loc>
-    <lastmod>2026-03-29T11:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</loc>
     <lastmod>2026-03-29T11:49:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00010-invest/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2026-03-09T23:10:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00009feb/</loc>
-    <lastmod>2026-03-05T18:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/%E6%9C%88%E7%B4%80%E9%8C%84/</loc>
     <lastmod>2026-03-05T18:53:43+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00008onlyme/</loc>

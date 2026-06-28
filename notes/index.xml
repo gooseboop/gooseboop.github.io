@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Aster</title>
+    <link>https://gooseboop.com/notes/</link>
+    <description>Recent content in Notes on Aster</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 28 Jun 2026 10:40:00 +0800</lastBuildDate>
+    <atom:link href="https://gooseboop.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://gooseboop.com/notes/20260628-001/</link>
+      <pubDate>Sun, 28 Jun 2026 10:40:00 +0800</pubDate>
+      <guid>https://gooseboop.com/notes/20260628-001/</guid>
+      <description>&lt;p&gt;感冒兩週了，這禮拜看了兩次醫生。咳嗽好難好救命。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>感冒兩週了，這禮拜看了兩次醫生。咳嗽好難好救命。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>wowow</title>
+      <link>https://gooseboop.com/notes/20260623-002/</link>
+      <pubDate>Tue, 23 Jun 2026 21:42:00 +0800</pubDate>
+      <guid>https://gooseboop.com/notes/20260623-002/</guid>
+      <description>&lt;p&gt;發自己的推特!!!(*´∀`)~♥&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>發自己的推特!!!(*´∀`)~♥</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://gooseboop.com/notes/20260623-001/</link>
+      <pubDate>Tue, 23 Jun 2026 21:00:00 +0800</pubDate>
+      <guid>https://gooseboop.com/notes/20260623-001/</guid>
+      <description>&lt;p&gt;新增了NOTE功能！&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>新增了NOTE功能！</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

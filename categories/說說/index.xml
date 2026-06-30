@@ -6,8 +6,60 @@
     <description>Recent content in 說說 on Aster</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 16 Jun 2026 19:37:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:41:05 +0800</lastBuildDate>
     <atom:link href="https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>接下來就是暑假了</title>
+      <link>https://gooseboop.com/posts/00023-abnote/</link>
+      <pubDate>Tue, 30 Jun 2026 13:41:05 +0800</pubDate>
+      <guid>https://gooseboop.com/posts/00023-abnote/</guid>
+      <description>盛大的放假計畫且大人不用寫暑假作業讚啦</description>
+      <content:encoded><![CDATA[<p>六月的最後一天在家休假，早上的行程：<code>吃早餐➤爸媽換新床幫忙打掃➤練琴➤看漫畫➤整理二手書➤午餐➤更新部落格</code>👈現在在這。<br>
+好想要繼續一整月或兩個月都這樣（社會人士也好想放暑假！），我就是一個宅在家一直做一樣的事都不會膩的人。（一直在想有沒有能善用這個優勢的工作啊我好需要）換工作前也打算要休至少一週到兩週左右的長假，也想先規劃可以耍些什麼廢的選項：</p>
+<ol>
+<li>看爆漫畫<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>：</li>
+</ol>
+<ul>
+<li>黃金神威(1-31完)</li>
+<li>進擊的巨人(1-34完)</li>
+<li>黃泉使者(1-11連載中)</li>
+<li>鋼之鍊金術師(1-27完)</li>
+<li>銀之匙(1-15完)</li>
+</ul>
+<hr>
+<ol start="2">
+<li>鋼琴線上課：<br>
+打算在暑假期間（？）購入wiwi的鋼琴技巧急診室與即興幼幼班狂練一波。XD</li>
+</ol>
+<hr>
+<ol start="3">
+<li>早睡早起養成班：<br>
+之後換工作因為通勤+需要早到，目標要養成十點就寢五點起床。</li>
+</ol>
+<hr>
+<ol start="4">
+<li>飲控養成班：<br>
+為了在今年+3kg，要來規劃早午餐高蛋白。早餐追加蛋一顆+豆漿1杯(200cc)，午餐要吃巴掌大的肉，下午零食毛豆或堅果一把。</li>
+</ol>
+<hr>
+<ol start="5">
+<li>部落格流程優化：<br>
+現在的流程：<code>在vs code寫完文章➤用終端機執行hugo➤複製public資料夾➤用github desktop上傳</code><br>
+其實重複這整段手動的程序蠻煩的，問了gpt可以調整成自動部署網站的方法，希望可以慢慢把這整段流程變得更懶人，要方便到只需煩惱文章寫什麼就好。XD</li>
+</ol>
+<hr>
+<pre><code>                      也期許之後要來部落格回顧放假做這五件事的心得！
+</code></pre>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>主要是想補完與回憶荒川牛媽的作品，還在想要跑租書店或買爆電子書（！）雖然蠻想去體驗一下已經為數不多的漫畫喫茶店，也重溫國高中泡在租書店的回憶，似乎會以前者優先，但夏天太熱了不知道會不會腦弱想用錢解決一切。本來還想放進一些排球少年之類的但一看有45集我恐怕是吃不了那麼多，先篩選一些應該看得完的。&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
     <item>
       <title>健檢</title>
       <link>https://gooseboop.com/posts/00021-health/</link>

@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gooseboop.com/notes/20260628-001/</loc>
-    <lastmod>2026-06-28T10:40:00+08:00</lastmod>
-  </url><url>
     <loc>https://gooseboop.com/</loc>
-    <lastmod>2026-06-28T10:40:00+08:00</lastmod>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/mur/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/00023-abnote/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</loc>
+    <lastmod>2026-06-30T13:41:05+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/notes/20260630-001/</loc>
+    <lastmod>2026-06-30T13:36:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/notes/</loc>
+    <lastmod>2026-06-30T13:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/notes/20260628-001/</loc>
     <lastmod>2026-06-28T10:40:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/notes/20260623-002/</loc>
@@ -18,18 +42,6 @@
     <lastmod>2026-06-23T21:00:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/tags/blogblog%E5%90%8C%E6%A8%82%E6%9C%83/</loc>
-    <lastmod>2026-06-20T10:00:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/categories/</loc>
-    <lastmod>2026-06-20T10:00:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/mur/</loc>
-    <lastmod>2026-06-20T10:00:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/posts/</loc>
-    <lastmod>2026-06-20T10:00:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/</loc>
     <lastmod>2026-06-20T10:00:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/categories/%E6%B4%BB%E5%8B%95/</loc>
@@ -42,9 +54,6 @@
     <lastmod>2026-06-16T19:37:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00021-health/</loc>
-    <lastmod>2026-06-16T19:37:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/categories/%E8%AA%AA%E8%AA%AA/</loc>
     <lastmod>2026-06-16T19:37:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00020-may/</loc>
@@ -61,9 +70,6 @@
   </url><url>
     <loc>https://gooseboop.com/tags/%E9%81%B8%E6%93%87/</loc>
     <lastmod>2026-05-30T13:19:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/tags/%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</loc>
-    <lastmod>2026-05-25T23:25:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00018-somehow/</loc>
     <lastmod>2026-05-25T23:25:05+08:00</lastmod>

@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gooseboop.com/notes/20260711-001/</loc>
+    <lastmod>2026-07-11T09:50:00+08:00</lastmod>
+  </url><url>
     <loc>https://gooseboop.com/</loc>
-    <lastmod>2026-07-11T09:44:05+08:00</lastmod>
+    <lastmod>2026-07-11T09:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/notes/</loc>
+    <lastmod>2026-07-11T09:50:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/categories/</loc>
     <lastmod>2026-07-11T09:44:05+08:00</lastmod>
@@ -27,12 +33,6 @@
     <lastmod>2026-07-11T09:44:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/notes/20260710-001/</loc>
-    <lastmod>2026-07-10T09:32:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/notes/20260711-001/</loc>
-    <lastmod>2026-07-10T09:32:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/notes/</loc>
     <lastmod>2026-07-10T09:32:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/posts/00024-jun/</loc>

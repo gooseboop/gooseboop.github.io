@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gooseboop.com/posts/00026-2026okinawa/</loc>
-    <lastmod>2026-07-11T16:30:05+08:00</lastmod>
+    <loc>https://gooseboop.com/notes/20260719-001/</loc>
+    <lastmod>2026-07-19T10:48:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/</loc>
+    <lastmod>2026-07-19T10:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/notes/</loc>
+    <lastmod>2026-07-19T10:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gooseboop.com/posts/00026-2026okinawa/</loc>
     <lastmod>2026-07-11T16:30:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/categories/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2026-07-11T16:30:05+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/notes/20260711-001/</loc>
-    <lastmod>2026-07-11T09:50:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gooseboop.com/notes/</loc>
     <lastmod>2026-07-11T09:50:00+08:00</lastmod>
   </url><url>
     <loc>https://gooseboop.com/tags/mur/</loc>
